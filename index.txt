@@ -1,10 +1,51 @@
-Hi i am sandeep kumar jha 
-
-please subscribe this channel 
+// git commands when u first time create repository 
 
 
-i subscribed the channel 
-ok thank you 
+git init
+git add . / git add filename 
+git commit -m "any message u want " 
+git branch main /  git branch any name 
+
+git remote add https://github.com/jhasandeep/git.git  
+
+git push -u origin main  
 
 
-very very good 
+// git commands again if u use same repository 
+
+1. for commit 
+
+git add . 
+git commit -m "first commit" 
+git push 
+
+
+2. for pull the data from github 
+
+git pull 
+
+3. to create branch and also move 
+
+git checkout -b new(branch name)
+
+4. to move in branch 
+
+git checkout new(branch name)
+
+5. stash command (to save code when u have to work on other thing in same code)
+git stash 
+
+for apply 
+git stash apply 
+
+
+6. command to merge two branches 
+git checkout main (branch name of main branch for ex : - "master" or "main" ) 
+git merge new(branch name which u want merge )
+
+
+
+
+
+
+
