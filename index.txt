@@ -45,6 +45,14 @@ git merge new(branch name which u want merge )
 
 
 
+//to change the repostiory in same folder on local 
+git remote set-url origin https://github.com/jhasandeep/ReactTodo.git
+
+
+
+
+
+
 
 
 
