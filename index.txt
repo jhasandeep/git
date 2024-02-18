@@ -4,7 +4,7 @@
 git init
 git add . / git add filename 
 git commit -m "any message u want " 
-git branch main /  git branch any name 
+git branch -M main /  git branch -M any name 
 
 git remote add https://github.com/jhasandeep/git.git  
 
